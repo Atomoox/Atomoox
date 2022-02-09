@@ -13,5 +13,5 @@ Student at the IUT Montpellier-Sète, France, Computer Science Departement.
 
 **Stats**
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Atomoox&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomoox&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Atomoox&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomoox&layout=compact&theme=nord&hide_border=true" /></a> |
 | ------------- | ------------- |
